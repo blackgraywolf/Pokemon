@@ -1,4 +1,4 @@
-# PokemonGame
+# Pokemon
 
 Welcome to the amazing world of Pokémon! Simply enter ruby pokemon.rb to start game.
 When game start you will have these options. 
