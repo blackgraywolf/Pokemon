@@ -1,0 +1,6 @@
+#!/usr/bin/env ruby
+
+require './lib/pokemon_game'
+
+
+PokemonGame::PlayPokemon.new.call
